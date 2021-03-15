@@ -51,7 +51,7 @@ dokku checks:skip node-js-app worker,web
 -----> Skipping zero downtime for app's (node-js-app) proctypes (worker,web)
 -----> Unsetting node-js-app
 -----> Unsetting DOKKU_CHECKS_DISABLED
------> Setting config vars
+-----> Setting config varus the 
        DOKKU_CHECKS_SKIPPED: worker,web
 ```
 
